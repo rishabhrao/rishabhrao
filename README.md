@@ -1,7 +1,7 @@
 ### Hi there, I'm [Rishabh Rao][website] 👋
 [![Website](https://img.shields.io/website?label=rishabhrao.tk&style=for-the-badge&url=https%3A%2F%2Frishabhrao.tk)](https://rishabhrao.tk)
 
-[![Codewars](https://www.codewars.com/users/rishabhrao/badges/small)](https://www.codewars.com/users/rishabhrao)
+[![Codewars](https://www.codewars.com/users/rishabhrao/badges/micro)](https://www.codewars.com/users/rishabhrao)
 [![Codeforces](https://cp-logo.vercel.app/codeforces/rishabhrao)](https://codeforces.com/profile/rishabhrao)
 [![Codechef](https://cp-logo.vercel.app/codechef/rishabhrao)](https://www.codechef.com/users/rishabhrao)
 
