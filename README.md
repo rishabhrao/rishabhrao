@@ -3,6 +3,7 @@
 
 [![Codewars](https://www.codewars.com/users/rishabhrao/badges/micro)](https://www.codewars.com/users/rishabhrao)
 [![Codeforces](https://cp-logo.vercel.app/codeforces/rishabhrao)](https://codeforces.com/profile/rishabhrao)
+[![AtCoder](https://cp-logo.vercel.app/atcoder/rishabhrao)](https://atcoder.jp/users/rishabhrao)
 [![Codechef](https://cp-logo.vercel.app/codechef/rishabhrao)](https://www.codechef.com/users/rishabhrao)
 
 ## I'm a Student 📚, Web Developer 💻 and Programmer 📱
