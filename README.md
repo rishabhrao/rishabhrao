@@ -20,3 +20,5 @@ I have been Programming since I was 13 years old. I can develop Custom Roms for 
 [website]: https://rishabhrao.codes
 [linkedin]: https://www.linkedin.com/in/rishabhraos1
 [email]: mailto:admin@rishabhrao.codes
+<br> <br>
+<img src="https://github-readme-stats.vercel.app/api?username=rishabhrao&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
