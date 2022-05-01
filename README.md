@@ -9,9 +9,9 @@ I have been Programming since I was 13 years old. I can develop Custom Roms for 
 
 [<img align="left" alt="rishabhrao.codes | Portfolio Website" height="22px" src="https://cdn.worldvectorlogo.com/logos/google-earth-1.svg" />][website]
 [<img align="left" alt="rishabhraos1 | LinkedIn Profile" height="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
-[<img align="left" alt="admin@rishabhrao.codes | Email" height="22px" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" />][email]
+[<img align="left" alt="rishabhraos1@gmail.com | Email" height="22px" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" />][email]
 
 
 [website]: https://rishabhrao.codes
 [linkedin]: https://www.linkedin.com/in/rishabhraos1
-[email]: mailto:admin@rishabhrao.codes
+[email]: mailto:rishabhraos1@gmail.com
